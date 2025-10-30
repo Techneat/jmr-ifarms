@@ -31,7 +31,7 @@
          {{range where .Site.RegularPages.ByDate "Type" "process"}}
       <div class="section box zoom-in">
         <img src="{{ .Params.icon}}" alt="" class="process1-img">
-        <h4>{{.Title}}</h4>
+        <h4>{{.Params.cardtitle}}</h4>
         <p>{{.Params.para}}</p>
       </div>
         {{end}}

@@ -65,13 +65,6 @@
       <description></description>
     </item>
     <item>
-      <title>Automated watering &amp; nutrient delivery</title>
-      <link>http://localhost:1313/process/process4/</link>
-      <pubDate>Tue, 28 Oct 2025 15:24:36 +0530</pubDate>
-      <guid>http://localhost:1313/process/process4/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Easy Growing Fresh Living</title>
       <link>http://localhost:1313/ourtech/easygrow/</link>
       <pubDate>Tue, 28 Oct 2025 15:24:36 +0530</pubDate>
@@ -79,24 +72,31 @@
       <description></description>
     </item>
     <item>
-      <title>Faster growth cycles</title>
-      <link>http://localhost:1313/process/process2/</link>
-      <pubDate>Tue, 28 Oct 2025 15:24:36 +0530</pubDate>
-      <guid>http://localhost:1313/process/process2/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Precision climate control</title>
+      <title>Process1</title>
       <link>http://localhost:1313/process/process1/</link>
       <pubDate>Tue, 28 Oct 2025 15:24:36 +0530</pubDate>
       <guid>http://localhost:1313/process/process1/</guid>
       <description></description>
     </item>
     <item>
-      <title>Real-time monitoring &amp; adjustment</title>
+      <title>Process2</title>
+      <link>http://localhost:1313/process/process2/</link>
+      <pubDate>Tue, 28 Oct 2025 15:24:36 +0530</pubDate>
+      <guid>http://localhost:1313/process/process2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Process3</title>
       <link>http://localhost:1313/process/process3/</link>
       <pubDate>Tue, 28 Oct 2025 15:24:36 +0530</pubDate>
       <guid>http://localhost:1313/process/process3/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Process4</title>
+      <link>http://localhost:1313/process/process4/</link>
+      <pubDate>Tue, 28 Oct 2025 15:24:36 +0530</pubDate>
+      <guid>http://localhost:1313/process/process4/</guid>
       <description></description>
     </item>
     <item>
