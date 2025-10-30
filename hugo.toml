@@ -1,0 +1,30 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'micro-project'
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Our Technology"
+    url = "/technology/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Nutritional Benefits"
+    url = "/nutritional/"
+    weight = 3
+
+  [[menu.main]]
+    name = "About Us"
+    url = "/about/"
+    weight = 4
+
+  [[menu.main]]
+    name = "Contact Us"
+    url = "/contact/"
+    weight = 5

@@ -1,0 +1,209 @@
+/* Nutritional Benefits */
+
+.Nutritional-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 5% 0%;
+    /* padding: 100px 80px; */
+    /* gap: 70px */
+}
+
+.Nutritional-left {
+    width: 50%;
+}
+
+.Nutritional-right {
+    width: 50%;
+    display: flex;
+    justify-content: end;
+}
+
+.Nutritional-right-img {
+    width: 92%;
+}
+
+.Nutritional-left h3 {
+    color: #6F9617;
+    font-family: Gluten;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.Nutritional-left h1 {
+    color: #000;
+    font-family: Nunito;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    /* width: 630px; */
+}
+
+.Nutritional-left li {
+    color: #949292;
+    text-align: justify;
+    font-family: Nunito;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-bottom: 32px;
+}
+
+/* Process */
+
+.Process-section {
+    background-image: url("/image/Nutritional-process.png");
+    width: 100%;
+    padding: 5% 0px;
+}
+
+.Process-section h3 {
+    color: #6F9617;
+    font-family: Gluten;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-align: center;
+}
+
+.Process-section h1 {
+    color: #000;
+    font-family: Nunito;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-align: center;
+}
+
+.process-4section {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+    gap: 25px;
+}
+
+.section {
+    width: 33%;
+    height: 308px;
+    flex-shrink: 0;
+    border-radius: 18px;
+    background: #FFF;
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+    padding: 30px 30px;
+
+}
+
+.process1-img {
+    width: 16%;
+    margin-bottom: 10px;
+}
+
+.section h4 {
+    color: #000;
+    font-family: Nunito;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-align: center;
+}
+
+.section p {
+    color: #949292;
+    text-align: center;
+    font-family: Nunito;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+@media (max-width: 1024px) {
+    .Nutritional-left {
+        width: 100%;
+    }
+
+    .Nutritional-right {
+        width: 100%;
+        justify-content: center;
+    }
+
+    .Nutritional-right-img {
+        width: 50%;
+    }
+
+    .process1-img {
+        width: 25%;
+    }
+    .section {
+        height: 360px;
+    }
+
+}
+
+@media (max-width: 768px) {
+    .section {
+        width: 48%;
+    }
+
+}
+
+@media (max-width: 426px) {
+
+    .Nutritional-section {
+        padding: 8% 3%;
+    }
+    .Nutritional-left h3 {
+        font-size: 20px;
+    }
+
+    .Nutritional-left h1 {
+        font-size: 24px;
+    }
+
+    .Nutritional-left li {
+        font-size: 16px;
+    }
+
+    .Nutritional-left li {
+        margin-bottom: 20px;
+    }
+
+    .Nutritional-right-img {
+        width: 100%;
+    }
+
+    .Process-section h3 {
+        font-size: 20px;
+    }
+
+    .Process-section h1 {
+        font-size: 24px;
+    }
+
+    .section {
+        width: 100%;
+        height: 280px;
+    }
+
+    .process1-img {
+        width: 16%;
+    }
+
+    .section p {
+        font-size: 16px;
+    }
+
+}

@@ -1,0 +1,97 @@
+{{ define "main" }}
+<!-- Our Technology Section -->
+     <div class="ourtechnologysection">
+    <div class="Our-Technology-section container">
+      <div class="technology-left box zoom-in">
+        <img src="/image/Our Technology-img-left.png" alt="" class="our-tech-img">
+      </div>
+      <div class="technology-right">
+        <h3 class="heading box fade-left">Our Technology</h3>
+        <h1 class="box fade-left">Growing Made Simple, Powered by IoT.</h1>
+        <p class="technology-right-p box fade-left">Loreaim Ipsum has been the
+          industry's standard dummyLorem Ipsum is an <br>oi simply dummy text of the printing and typesetting
+          industry.</p>
+        <!-- <div class="tech-point-tot4"> -->
+        <div class="tech-point-4 ">
+            {{ range where .Site.RegularPages.ByDate "Type" "ourTech" }}
+              <div class="tech1 box fade-up">
+                <div class="icon-text">
+                  <img src="{{ .Params.img }}" w="100%" class="tech-tic">
+                  <h3>{{.Title}}</h3>
+                </div>
+                <p id="tech1-p">{{.Params.para}}</p>
+              </div>
+            {{end}}
+        </div>
+        <button class="tech-button box fade-up">Discover More +</button>
+        <!-- </div> -->
+      </div>
+    </div>
+  </div>
+  <!-- Key Features -->
+  <div class="Key-Features-section container">
+    <div class="key-left">
+      <h3 class="box fade-right">Key Features</h3>
+      <h1 class="box fade-right">Healthy Greens, Effortlessly Grown</h1>
+      <div class=" key-points box fade-right">
+        <div class="  key-points-left">
+          <div class="key-icon-text">
+            <img src="/image/key-left-tic.png" alt="">
+            <p>Vertical growing system</p>
+          </div>
+          <div class="key-icon-text">
+            <img src="/image/key-left-tic.png" alt="">
+            <p>Plug n Play method</p>
+          </div>
+          <div class="key-icon-text">
+            <img src="/image/key-left-tic.png" alt="">
+            <p>Sustainable use of energy</p>
+          </div>
+          <div class="key-icon-text">
+            <img src="/image/key-left-tic.png" alt="">
+            <p>Portable & Customized</p>
+          </div>
+          <div class="key-icon-text">
+            <img src="/image/key-left-tic.png" alt="">
+            <p>User friendly automation</p>
+          </div>
+          <div class="key-icon-text">
+            <img src="/image/key-left-tic.png" alt="">
+            <p>Real time displays</p>
+          </div>
+        </div>
+        <div class=" key-points-right">
+          <div class="key-icon-text">
+            <img src="/image/key-left-tic.png" alt="">
+            <p>Fast Scaling</p>
+          </div>
+          <div class="key-icon-text">
+            <img src="/image/key-left-tic.png" alt="">
+            <p>Pesticide Free</p>
+          </div>
+          <div class="key-icon-text">
+            <img src="/image/key-left-tic.png" alt="">
+            <p>Cost Saving</p>
+          </div>
+          <div class="key-icon-text">
+            <img src="/image/key-left-tic.png" alt="">
+            <p>50 to 90 harvests in a year</p>
+          </div>
+          <div class="key-icon-text">
+            <img src="/image/key-left-tic.png" alt="">
+            <p>Automated ideal lighting, Watering</p>
+          </div>
+          <div class="key-icon-text">
+            <img src="/image/key-left-tic.png" alt="">
+            <p>Automated Climate control</p>
+          </div>
+        </div>
+
+      </div>
+    </div>
+    <div class="key-right box zoom-in">
+      <img src="/image/key-right.png" alt="" class="key-right-img">
+    </div>
+  </div>
+
+{{end}}

@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Overlock:ital,wght@0,400;0,700;0,900;1,400;1,700;1,900&family=Overpass:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gluten:wght@100..900&family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Overlock:ital,wght@0,400;0,700;0,900;1,400;1,700;1,900&family=Overpass:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    /* margin: 0% auto; */
+    width: 100%;
+}
+
+.navbar {
+    background-color: #6F9617;
+}
+
+.navbar-nav {
+    gap: 20px;
+}
+
+.nav-link {
+    color:white;
+font-family: Nunito;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+
+/* .active {
+    color: #FFD449;
+} */
+.nav-link.active{
+  color:#FFD449 !important; 
+  font-weight: 600;
+}
+.nav-link:hover{
+    color: white;
+}
+#offcanvasNavbar{
+    background-color:  #6F9617;
+}

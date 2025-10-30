@@ -1,0 +1,42 @@
+{{define "main"}}
+<!-- Nutritional Benefits -->
+<div class="Nutritional-section container">
+  <div class="Nutritional-left">
+    <h3 class="box fade-right">Nutritional Benefits</h3>
+    <h1 class="box fade-right">Packed with Vitamins, Bursting with Health.</h1>
+    <div class="points box fade-right">
+      <ul>
+        <li>Microgreens contain concentrated amounts of Vitamins, Minerals and Antioxidants often 4 to 40 times more
+          nutrients than mature vegetables and greens.</li>
+        <li>These tiny greens are power-packed with essential vitamins (A, C, E, K, Folate), vital minerals (Iron,
+          Potassium, Magnesium, Zinc), and antioxidants like carotenoids and anthocyanins.</li>
+        <li>Microgreens are also pesticide and fertilizer-free</li>
+        <li>Thanks for controlled indoor cultivation, rapid harvest cycles, safe and healthy choice for nutrition</li>
+      </ul>
+    </div>
+  </div>
+  <div class="Nutritional-right box zoom-in">
+    <img src="/image/Nutritional-img.png " alt="" class="Nutritional-right-img">
+  </div>
+</div>
+
+<!-- Process -->
+
+<div class="Process-section ">
+  <div class="container">
+    <h3 class="box zoom-in">Process</h3>
+    <h1 class="box zoom-in">Optimizing Nutrition with Smart Automation</h1>
+
+    <div class="process-4section">
+         {{range where .Site.RegularPages.ByDate "Type" "process"}}
+      <div class="section box zoom-in">
+        <img src="{{ .Params.icon}}" alt="" class="process1-img">
+        <h4>{{.Title}}</h4>
+        <p>{{.Params.para}}</p>
+      </div>
+        {{end}}
+    </div>
+  </div>
+</div>
+
+{{end}}

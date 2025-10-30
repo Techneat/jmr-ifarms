@@ -1,0 +1,66 @@
+{{define "main"}}
+<!-- contact-section -->
+<div class=" Contact-section container">
+    <div class="  contact-left box zoom-in">
+        <img src="/image/contact-img.png" alt="" class="contact-left-img">
+    </div>
+    <div class=" contact-right">
+        <h3 class="box fade-left">Contact With Us</h3>
+        <h1 class="box fade-left">Connect With Us for Automated Microgreen Farming</h1>
+        <div class="contact-form">
+            <form id="contactForm" action="https://formspree.io/f/xpwodepb" method="POST" novalidate>
+                <div class="form-group box fade-left">
+                    <input type="text" id="firstName" name="firstName" placeholder="Enter your First name" required>
+                    <div class="error" id="firstNameError"></div>
+                </div>
+
+                <div class="form-group box fade-left">
+                    <input type="text" id="lastName" name="lastName" placeholder="Enter your Last name" required>
+                    <div class="error" id="lastNameError"></div>
+                </div>
+
+                <div class="form-group box fade-left">
+                    <input type="email" id="email" name="email" placeholder="Enter your email" required>
+                    <div class="error" id="emailError"></div>
+                </div>
+
+                <div class="form-group box fade-left">
+                    <input type="tel" id="number" name="number" placeholder="Enter your phone number" required>
+                    <div class="error" id="numberError"></div>
+                </div>
+
+                <div class="form-group message1 box fade-left">
+                    <textarea id="message" class="message1" name="message" rows="3" placeholder="Type your message"
+                        required></textarea>
+                    <div class="error" id="messageError"></div>
+                </div>
+
+                <div id="formMsg" style="color:green;margin-bottom:8px;"></div>
+
+                <button type="submit" class="contact-button box fade-up">Submit</button>
+            </form>
+        </div>
+
+    </div>
+    <p id="formMsg" class="success"></p>
+</div>
+
+<div class="contact-card container">
+    <div class="con1 box fade-up">
+        <img src="/image/cont-location.png" alt="" class="cont-icon">
+        <h3>Location</h3>
+        <p>21/25 veerapathiran street,<br>kottar,Nagercoil</p>
+    </div>
+    <div class="con1 box fade-up">
+        <img src="/image/cont-mail.png" alt="" class="cont-icon">
+        <h3>Email</h3>
+        <p>cireme5575@dropeso.com</p>
+    </div>
+    <div class="con1 box fade-up">
+        <img src="/image/cont-phone.png" alt="" class="cont-icon">
+        <h3>Number</h3>
+        <p>+91 7904695563</p>
+    </div>
+
+</div>
+{{end}}

@@ -1,0 +1,134 @@
+
+/* Key Features */
+
+.Key-Features-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 5% 0;
+}
+
+.key-left {
+    width: 60%;
+}
+
+.key-right {
+    width: 40%;
+}
+
+.key-right-img {
+    width: 100%;
+}
+
+.key-left h3 {
+    color: #6F9617;
+    font-family: Gluten;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.key-left h1 {
+    color: #000;
+    font-family: Nunito;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.key-left .key-points {
+
+    gap: 60px;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 30px 0px 0px 0px;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+}
+
+.key-points,
+.key-icon-text {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 10px;
+
+}
+
+.key-icon-text p {
+    color: #949292;
+    font-family: Nunito;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.key-right {
+    display: flex;
+    justify-content: flex-end;
+}
+
+@media (max-width: 1024px){
+ .key-left {
+        width: 100%;
+    }
+
+    .key-right {
+        width: 100%;
+    }
+
+    .Key-Features-section {
+        justify-content: start;
+    }
+
+    .key-right-img {
+        width: 50%;
+    }
+
+    .key-right {
+        justify-content: center;
+    }
+
+    .key-left .key-points {
+        gap: 100px;
+    }
+}
+
+@media (max-width: 768px) {
+    .key-left .key-points {
+        gap: 70px;
+    }
+}
+
+@media (max-width: 426px){
+    .Key-Features-section {
+        padding: 5% 3%;
+    }
+       .key-left h3 {
+        font-size: 20px;
+    }
+
+    .key-left h1 {
+        font-size: 24px;
+    }
+
+    .key-icon-text p {
+        font-size: 16px;
+    }
+
+    .key-left .key-points {
+        gap: 20px;
+    }
+
+    .key-right-img {
+        width: 100%;
+    }
+
+}
