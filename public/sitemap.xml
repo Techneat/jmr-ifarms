@@ -32,22 +32,22 @@
     <loc>http://localhost:1313/ourtech/futurefarming/</loc>
     <lastmod>2025-10-28T15:27:29+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/process/process4/</loc>
-    <lastmod>2025-10-28T15:24:36+05:30</lastmod>
-  </url><url>
     <loc>http://localhost:1313/ourtech/easygrow/</loc>
-    <lastmod>2025-10-28T15:24:36+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/process/process2/</loc>
     <lastmod>2025-10-28T15:24:36+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/process/process1/</loc>
     <lastmod>2025-10-28T15:24:36+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/process/</loc>
+    <loc>http://localhost:1313/process/process2/</loc>
     <lastmod>2025-10-28T15:24:36+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/process/process3/</loc>
+    <lastmod>2025-10-28T15:24:36+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/process/process4/</loc>
+    <lastmod>2025-10-28T15:24:36+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/process/</loc>
     <lastmod>2025-10-28T15:24:36+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/contact/</loc>
