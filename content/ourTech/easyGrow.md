@@ -4,5 +4,5 @@ draft = true
 title = 'Easy Growing Fresh Living'
 img = '/image/Our Technology-tic.png'
 para = 'Just add seeds, set the schedule, and harvest with ease.'
-type = 'ourtech'
+type = 'ourTech'
 +++

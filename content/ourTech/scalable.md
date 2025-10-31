@@ -4,5 +4,5 @@ draft = true
 title = 'Scalable Innovation'
 img = '/image/Our Technology-tic.png'
 para = 'From small spaces to large farms, growth made limitless.'
-type = 'ourtech'
+type = 'ourTech'
 +++
