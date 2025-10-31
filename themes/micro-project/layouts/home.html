@@ -63,16 +63,16 @@
         industry's standard dummyLorem Ipsum is an <br>oi simply dummy text of the printing and typesetting
         industry.</p>
       <!-- <div class="tech-point-tot4"> -->
-      <div class="tech-point-4 ">
-        {{ range where .Site.Pages "Type" "ourTech" }}
+      <div class="tech-point-4">
+        {{ range where .Site.RegularPages "Section" "ourTech" }}
         <div class="tech1 box fade-up">
           <div class="icon-text">
-            <img src="{{ .Params.img }}" w="100%" class="tech-tic">
-            <h3>{{.Title}}</h3>
+            <img src="{{ .Params.img }}" class="tech-tic">
+            <h3>{{ .Title }}</h3>
           </div>
-          <p id="tech1-p">{{.Params.para}}</p>
+          <p>{{ .Params.para }}</p>
         </div>
-        {{end}}
+        {{ end }}
       </div>
       <button class="tech-button box fade-up"><a href="/technology"> Discover More + </a></button>
       <!-- </div> -->
