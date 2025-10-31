@@ -2,150 +2,150 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on My New Hugo Site</title>
-    <link>http://localhost:62314/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in Home on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 28 Oct 2025 17:11:16 +0530</lastBuildDate>
-    <atom:link href="http://localhost:62314/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Person5</title>
-      <link>http://localhost:62314/review/person5/</link>
+      <link>http://localhost:1313/review/person5/</link>
       <pubDate>Tue, 28 Oct 2025 17:11:16 +0530</pubDate>
-      <guid>http://localhost:62314/review/person5/</guid>
+      <guid>http://localhost:1313/review/person5/</guid>
       <description>&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry Loreaim Ipsum has been the industry&amp;rsquo;s standard dummyLorem Ipsum is an oi simply dummy text of the printing and typesetting industry.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Person4</title>
-      <link>http://localhost:62314/review/person4/</link>
+      <link>http://localhost:1313/review/person4/</link>
       <pubDate>Tue, 28 Oct 2025 17:11:05 +0530</pubDate>
-      <guid>http://localhost:62314/review/person4/</guid>
+      <guid>http://localhost:1313/review/person4/</guid>
       <description>&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry Loreaim Ipsum has been the industry&amp;rsquo;s standard dummyLorem Ipsum is an oi simply dummy text of the printing and typesetting industry.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Person3</title>
-      <link>http://localhost:62314/review/person3/</link>
+      <link>http://localhost:1313/review/person3/</link>
       <pubDate>Tue, 28 Oct 2025 17:10:55 +0530</pubDate>
-      <guid>http://localhost:62314/review/person3/</guid>
+      <guid>http://localhost:1313/review/person3/</guid>
       <description>&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry Loreaim Ipsum has been the industry&amp;rsquo;s standard dummyLorem Ipsum is an oi simply dummy text of the printing and typesetting industry.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Person2</title>
-      <link>http://localhost:62314/review/person2/</link>
+      <link>http://localhost:1313/review/person2/</link>
       <pubDate>Tue, 28 Oct 2025 17:10:46 +0530</pubDate>
-      <guid>http://localhost:62314/review/person2/</guid>
+      <guid>http://localhost:1313/review/person2/</guid>
       <description>&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry Loreaim Ipsum has been the industry&amp;rsquo;s standard dummyLorem Ipsum is an oi simply dummy text of the printing and typesetting industry.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Person1</title>
-      <link>http://localhost:62314/review/person1/</link>
+      <link>http://localhost:1313/review/person1/</link>
       <pubDate>Tue, 28 Oct 2025 17:10:19 +0530</pubDate>
-      <guid>http://localhost:62314/review/person1/</guid>
+      <guid>http://localhost:1313/review/person1/</guid>
       <description>&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry Loreaim Ipsum has been the industry&amp;rsquo;s standard dummyLorem Ipsum is an oi simply dummy text of the printing and typesetting industry.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Scalable Innovation</title>
-      <link>http://localhost:62314/ourtech/scalable/</link>
+      <link>http://localhost:1313/ourtech/scalable/</link>
       <pubDate>Tue, 28 Oct 2025 15:28:13 +0530</pubDate>
-      <guid>http://localhost:62314/ourtech/scalable/</guid>
+      <guid>http://localhost:1313/ourtech/scalable/</guid>
       <description></description>
     </item>
     <item>
       <title>JMR IFARMS Vertical Farming</title>
-      <link>http://localhost:62314/ourtech/jmrifarms/</link>
+      <link>http://localhost:1313/ourtech/jmrifarms/</link>
       <pubDate>Tue, 28 Oct 2025 15:27:54 +0530</pubDate>
-      <guid>http://localhost:62314/ourtech/jmrifarms/</guid>
+      <guid>http://localhost:1313/ourtech/jmrifarms/</guid>
       <description></description>
     </item>
     <item>
       <title>Future of Farming</title>
-      <link>http://localhost:62314/ourtech/futurefarming/</link>
+      <link>http://localhost:1313/ourtech/futurefarming/</link>
       <pubDate>Tue, 28 Oct 2025 15:27:29 +0530</pubDate>
-      <guid>http://localhost:62314/ourtech/futurefarming/</guid>
+      <guid>http://localhost:1313/ourtech/futurefarming/</guid>
       <description></description>
     </item>
     <item>
       <title>Easy Growing Fresh Living</title>
-      <link>http://localhost:62314/ourtech/easygrow/</link>
+      <link>http://localhost:1313/ourtech/easygrow/</link>
       <pubDate>Tue, 28 Oct 2025 15:24:36 +0530</pubDate>
-      <guid>http://localhost:62314/ourtech/easygrow/</guid>
+      <guid>http://localhost:1313/ourtech/easygrow/</guid>
       <description></description>
     </item>
     <item>
       <title>Process1</title>
-      <link>http://localhost:62314/process/process1/</link>
+      <link>http://localhost:1313/process/process1/</link>
       <pubDate>Tue, 28 Oct 2025 15:24:36 +0530</pubDate>
-      <guid>http://localhost:62314/process/process1/</guid>
+      <guid>http://localhost:1313/process/process1/</guid>
       <description></description>
     </item>
     <item>
       <title>Process2</title>
-      <link>http://localhost:62314/process/process2/</link>
+      <link>http://localhost:1313/process/process2/</link>
       <pubDate>Tue, 28 Oct 2025 15:24:36 +0530</pubDate>
-      <guid>http://localhost:62314/process/process2/</guid>
+      <guid>http://localhost:1313/process/process2/</guid>
       <description></description>
     </item>
     <item>
       <title>Process3</title>
-      <link>http://localhost:62314/process/process3/</link>
+      <link>http://localhost:1313/process/process3/</link>
       <pubDate>Tue, 28 Oct 2025 15:24:36 +0530</pubDate>
-      <guid>http://localhost:62314/process/process3/</guid>
+      <guid>http://localhost:1313/process/process3/</guid>
       <description></description>
     </item>
     <item>
       <title>Process4</title>
-      <link>http://localhost:62314/process/process4/</link>
+      <link>http://localhost:1313/process/process4/</link>
       <pubDate>Tue, 28 Oct 2025 15:24:36 +0530</pubDate>
-      <guid>http://localhost:62314/process/process4/</guid>
+      <guid>http://localhost:1313/process/process4/</guid>
       <description></description>
     </item>
     <item>
       <title>Contact</title>
-      <link>http://localhost:62314/contact/</link>
+      <link>http://localhost:1313/contact/</link>
       <pubDate>Mon, 27 Oct 2025 17:01:38 +0530</pubDate>
-      <guid>http://localhost:62314/contact/</guid>
+      <guid>http://localhost:1313/contact/</guid>
       <description></description>
     </item>
     <item>
       <title>About</title>
-      <link>http://localhost:62314/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 27 Oct 2025 16:45:43 +0530</pubDate>
-      <guid>http://localhost:62314/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description></description>
     </item>
     <item>
       <title>Nutritional</title>
-      <link>http://localhost:62314/nutritional/</link>
+      <link>http://localhost:1313/nutritional/</link>
       <pubDate>Mon, 27 Oct 2025 16:27:21 +0530</pubDate>
-      <guid>http://localhost:62314/nutritional/</guid>
+      <guid>http://localhost:1313/nutritional/</guid>
       <description></description>
     </item>
     <item>
       <title>Technology</title>
-      <link>http://localhost:62314/technology/</link>
+      <link>http://localhost:1313/technology/</link>
       <pubDate>Mon, 27 Oct 2025 16:12:54 +0530</pubDate>
-      <guid>http://localhost:62314/technology/</guid>
+      <guid>http://localhost:1313/technology/</guid>
       <description></description>
     </item>
     <item>
       <title>Post 3</title>
-      <link>http://localhost:62314/posts/post-3/</link>
+      <link>http://localhost:1313/posts/post-3/</link>
       <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
-      <guid>http://localhost:62314/posts/post-3/</guid>
+      <guid>http://localhost:1313/posts/post-3/</guid>
       <description>&lt;p&gt;Occaecat aliqua consequat laborum ut ex aute aliqua culpa quis irure esse magna dolore quis. Proident fugiat labore eu laboris officia Lorem enim. Ipsum occaecat cillum ut tempor id sint aliqua incididunt nisi incididunt reprehenderit. Voluptate ad minim sint est aute aliquip esse occaecat tempor officia qui sunt. Aute ex ipsum id ut in est velit est laborum incididunt. Aliqua qui id do esse sunt eiusmod id deserunt eu nostrud aute sit ipsum. Deserunt esse cillum Lorem non magna adipisicing mollit amet consequat.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Post 2</title>
-      <link>http://localhost:62314/posts/post-2/</link>
+      <link>http://localhost:1313/posts/post-2/</link>
       <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
-      <guid>http://localhost:62314/posts/post-2/</guid>
+      <guid>http://localhost:1313/posts/post-2/</guid>
       <description>&lt;p&gt;Anim eiusmod irure incididunt sint cupidatat. Incididunt irure irure irure nisi ipsum do ut quis fugiat consectetur proident cupidatat incididunt cillum. Dolore voluptate occaecat qui mollit laborum ullamco et. Ipsum laboris officia anim laboris culpa eiusmod ex magna ex cupidatat anim ipsum aute. Mollit aliquip occaecat qui sunt velit ut cupidatat reprehenderit enim sunt laborum. Velit veniam in officia nulla adipisicing ut duis officia.&lt;/p&gt;&#xA;&lt;p&gt;Exercitation voluptate irure in irure tempor mollit Lorem nostrud ad officia. Velit id fugiat occaecat do tempor. Sit officia Lorem aliquip eu deserunt consectetur. Aute proident deserunt in nulla aliquip dolore ipsum Lorem ut cupidatat consectetur sit sint laborum. Esse cupidatat sit sint sunt tempor exercitation deserunt. Labore dolor duis laborum est do nisi ut veniam dolor et nostrud nostrud.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Post 1</title>
-      <link>http://localhost:62314/posts/post-1/</link>
+      <link>http://localhost:1313/posts/post-1/</link>
       <pubDate>Sun, 15 Jan 2023 09:00:00 -0700</pubDate>
-      <guid>http://localhost:62314/posts/post-1/</guid>
+      <guid>http://localhost:1313/posts/post-1/</guid>
       <description>&lt;p&gt;Tempor proident minim aliquip reprehenderit dolor et ad anim Lorem duis sint eiusmod. Labore ut ea duis dolor. Incididunt consectetur proident qui occaecat incididunt do nisi Lorem. Tempor do laborum elit laboris excepteur eiusmod do. Eiusmod nisi excepteur ut amet pariatur adipisicing Lorem.&lt;/p&gt;&#xA;&lt;p&gt;Occaecat nulla excepteur dolore excepteur duis eiusmod ullamco officia anim in voluptate ea occaecat officia. Cillum sint esse velit ea officia minim fugiat. Elit ea esse id aliquip pariatur cupidatat id duis minim incididunt ea ea. Anim ut duis sunt nisi. Culpa cillum sit voluptate voluptate eiusmod dolor. Enim nisi Lorem ipsum irure est excepteur voluptate eu in enim nisi. Nostrud ipsum Lorem anim sint labore consequat do.&lt;/p&gt;</description>
     </item>
   </channel>
