@@ -51,7 +51,7 @@
   </div>
 </div>
 <!-- Our Technology Section -->
-     <div class="ourtechnologysection">
+     <!-- <div class="ourtechnologysection">
     <div class="Our-Technology-section container">
       <div class="technology-left box zoom-in">
         <img src="/image/Our Technology-img-left.png" alt="" class="our-tech-img">
@@ -97,7 +97,33 @@
 
       </div>
     </div>
-  </div>
+  </div> -->
+  <!-- Our Technology Section -->
+<div class="ourtechnologysection">
+    <div class="Our-Technology-section container">
+      <div class="technology-left box zoom-in">
+        <img src="/image/Our Technology-img-left.png" alt="" class="our-tech-img">
+      </div>
+      <div class="technology-right">
+        <h3 class="heading box fade-left">Our Technology</h3>
+        <h1 class="box fade-left">Growing Made Simple, Powered by IoT.</h1>
+        <p class="technology-right-p box fade-left">Loreaim Ipsum has been the
+          industry's standard dummyLorem Ipsum is an <br>oi simply dummy text of the printing and typesetting
+          industry.</p>
+        <div class="tech-point-4 ">
+            {{ range where .Site.RegularPages.ByDate "Type" "ourTech" }}
+              <div class="tech1 box fade-up">
+                <div class="icon-text">
+                  <img src="{{ .Params.img }}" w="100%" class="tech-tic">
+                  <h3>{{.Title}}</h3>
+                </div>
+                <p id="tech1-p">{{.Params.para}}</p>
+              </div>
+            {{end}}
+        </div>
+      </div>
+    </div>
+  </div> 
 
 <!-- How it's work Section -->
 <div class="howitswork ">
