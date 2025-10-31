@@ -4,5 +4,5 @@ draft = true
 title = 'JMR IFARMS Vertical Farming'
 img = '/image/Our Technology-tic.png'
 para = 'Effortless, hands-free growth powered by IoT technology'
-type = 'ourTech'
+type = 'ourtech'
 +++

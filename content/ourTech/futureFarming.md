@@ -4,5 +4,5 @@ draft = true
 title = 'Future of Farming'
 img = '/image/Our Technology-tic.png'
 para = 'Healthy microgreens, cultivated through smart automation.'
-type = 'ourTech'
+type = 'ourtech'
 +++
