@@ -155,6 +155,30 @@
   </div>
 </div>
 <!-- Review -->
+<!-- <div class="Testimonials">
+  <div class=" container">
+    <h3 class="box fade-right">Testimonials</h3>
+    <div class="head-caro">
+      <h1 class="box fade-right">What our clients say?</h1>
+      <div class="next-pre box fade-left">
+        <img src="/image/pre.png" alt="" class="prev">
+        <img src="/image/next.png" alt="" class="next">
+      </div>
+    </div>
+    <section class="testimonials">
+      <div id="customers-testimonials" class="owl-carousel">
+        {{ range where .Site.RegularPages.ByDate "Type" "review" }}
+        <div class="item">
+          <div class="shadow-effect">
+            <img src="{{.Params.person_img}}" alt="">
+            <p>{{.Content}}</p>
+          </div>
+          <div class="testimonial-name">{{.Title}}</div>
+        </div>
+        {{end}}
+    </section>
+  </div>
+</div> -->
 <div class="Testimonials">
   <div class=" container">
     <h3 class="box fade-right">Testimonials</h3>
