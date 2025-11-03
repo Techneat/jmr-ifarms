@@ -347,7 +347,7 @@ img {
 
 .tech-point-4 .tech1 {
     width: 49%;
-    height: 175px;
+    /* height: 175px; */
     padding: 20px;
     border: 0.5px solid #9CC448;
     background: #F0F1F1;
