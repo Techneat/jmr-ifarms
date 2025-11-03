@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Processes on My New Hugo Site</title>
+    <title>Processes on </title>
     <link>http://localhost:1313/process/</link>
-    <description>Recent content in Processes on My New Hugo Site</description>
+    <description>Recent content in Processes on </description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 28 Oct 2025 15:24:36 +0530</lastBuildDate>
