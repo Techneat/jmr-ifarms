@@ -18,6 +18,7 @@ body {
 
 .navbar-nav {
     gap: 20px;
+    align-items: center;
 }
 
 .nav-link {
@@ -29,9 +30,6 @@ font-weight: 500;
 line-height: normal;
 }
 
-/* .active {
-    color: #FFD449;
-} */
 .nav-link.active{
   color:#FFD449 !important; 
   font-weight: 600;
@@ -42,3 +40,28 @@ line-height: normal;
 #offcanvasNavbar{
     background-color:  #6F9617;
 }
+.navbar-toggler {
+    border: none;
+}
+
+.logo{
+    width: 80px;        /* fixed logo size */
+    height: auto;
+}
+
+.navbar-brand{
+    padding: 0px;
+}
+
+
+@media (max-width: 992px) {
+  .navbar-nav {
+    gap: 15px;
+  }
+
+  .logo {
+    width: 50px;
+  }
+}
+
+

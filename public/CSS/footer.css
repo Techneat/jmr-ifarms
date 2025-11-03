@@ -13,6 +13,10 @@ footer .f-sec1 p {
     line-height: 36px;
     /* width: 362px; */
 }
+.f-logo{
+    width: 20%;
+    margin-bottom: 30px;
+}
 
 .f-sec2 {
     display: flex;
