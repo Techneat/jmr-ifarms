@@ -2,6 +2,9 @@
 .footer-bg {
     background-image: url("/image/Group\ 79.png");
     padding: 5%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 footer .f-sec1 p {
@@ -13,7 +16,8 @@ footer .f-sec1 p {
     line-height: 36px;
     /* width: 362px; */
 }
-.f-logo{
+
+.f-logo {
     width: 20%;
     margin-bottom: 30px;
 }
@@ -111,4 +115,3 @@ footer .f-sec3 h3 {
         font-size: 16px;
     }
 }
-
