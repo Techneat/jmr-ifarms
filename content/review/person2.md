@@ -1,8 +1,11 @@
 +++
 date = '2025-10-28T17:10:46+05:30'
 draft = true
-title = 'Person2'
+title = 'Anjali M., Health & Wellness Blogger'
 person_img = '/image/review1.svg'
 area = 'Nagercoil'
 +++
-Lorem Ipsum is simply dummy text of the printing and typesetting industry Loreaim Ipsum has been the industry's standard dummyLorem Ipsum is an oi simply dummy text of the printing and typesetting industry.
+I'm a busy health enthusiast, and the JMR i farms unit is a
+game-changer. The automated lighting, watering, and climate control ensure that my microgreens are always growing in the ideal
+conditions, resulting in a consistent supply of safe and healthy
+greens. 

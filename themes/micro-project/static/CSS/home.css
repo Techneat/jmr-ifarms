@@ -298,6 +298,10 @@ img {
 .technology-left {
     width: 30%;
 }
+.key-left-tic{
+    width: 24px;
+    height: 24px;
+}
 
 .technology-right {
     width: 70%;
@@ -325,6 +329,15 @@ img {
     font-weight: 700;
     line-height: normal;
 
+}
+.technology-right, .about-left p {
+    color: rgb(148, 146, 146);
+    font-family: Nunito;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-bottom: 30px;
 }
 
 .technology-right-p {
@@ -758,7 +771,9 @@ a{
         width: 181px;
         height: 44px;
     }
-
+.about-section {
+    padding: 18% 0% 0%;
+}
     .about-section .about-left h3 {
         font-size: 20px;
     }
@@ -785,7 +800,7 @@ a{
         width: 100%;
     }
     .ourtechnologysection {
-        padding: 13% 0%;
+        padding: 18% 0% 0%;
     }
     .tech-point-4 .tech1 {
         width: 100%;

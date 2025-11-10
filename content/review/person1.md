@@ -1,8 +1,8 @@
 +++
 date = '2025-10-28T17:10:19+05:30'
 draft = true
-title = 'Person1'
+title = 'Rakesh.P, Home Chef'
 person_img = '/image/review1.svg'
 area = 'Nagercoil' 
 +++
-Lorem Ipsum is simply dummy text of the printing and typesetting industry Loreaim Ipsum has been the industry's standard dummyLorem Ipsum is an oi simply dummy text of the printing and typesetting industry.
+The user-friendly automation takes all the guesswork out of growing,and the real-time display lets me monitor everything easily. JMR ifarms unit is truly a hassle-free way to have fresh pesticide-free microgreens year-round.

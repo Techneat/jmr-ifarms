@@ -1,8 +1,8 @@
 +++
 date = '2025-10-28T17:11:16+05:30'
 draft = true
-title = 'Person5'
+title = 'Priya N., Home maker'
 person_img = '/image/review1.svg'
 area = 'Nagercoil'
 +++
-Lorem Ipsum is simply dummy text of the printing and typesetting industry Loreaim Ipsum has been the industry's standard dummyLorem Ipsum is an oi simply dummy text of the printing and typesetting industry.
+The plug-and-play setup of this unit was so simple. I was able to get it running in minutes. It's a clean, controlled indoor cultivation method that gives me peace of mind.

@@ -1,6 +1,8 @@
 
 /* Key Features */
-
+.point1{
+    color:#6F9617;
+}
 .Key-Features-section {
     display: flex;
     justify-content: center;
@@ -109,7 +111,7 @@
 
 @media (max-width: 426px){
     .Key-Features-section {
-        padding: 5% 3%;
+        padding: 18% 3%;
     }
        .key-left h3 {
         font-size: 20px;
@@ -132,3 +134,4 @@
     }
 
 }
+

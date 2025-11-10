@@ -1,8 +1,8 @@
 +++
 date = '2025-10-28T17:11:05+05:30'
 draft = true
-title = 'Person4'
+title = 'Vikram R., Tech Professional'
 person_img = '/image/review1.svg'
 area = 'Nagercoil'
 +++
-Lorem Ipsum is simply dummy text of the printing and typesetting industry Loreaim Ipsum has been the industry's standard dummyLorem Ipsum is an oi simply dummy text of the printing and typesetting industry.
+The technology behind this unit is brilliant. The soilless cultivation method makes me feel good about my environmental impact. I love that I can have a steady source of nutrient-dense greens that are completely free of fertilizers. It's the ultimate in modern, healthy, and easy cultivation.

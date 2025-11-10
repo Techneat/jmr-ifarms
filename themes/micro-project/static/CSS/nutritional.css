@@ -155,6 +155,9 @@
 }
 
 @media (max-width: 768px) {
+        .Nutritional-section {
+        padding: 10% 3%;
+    }
     .section {
         width: 48%;
     }
@@ -164,7 +167,7 @@
 @media (max-width: 426px) {
 
     .Nutritional-section {
-        padding: 8% 3%;
+        padding: 18% 3%;
     }
     .Nutritional-left h3 {
         font-size: 20px;
