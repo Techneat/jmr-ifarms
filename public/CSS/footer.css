@@ -10,7 +10,7 @@
 footer .f-sec1 p {
     color: #FFF;
     font-family: Nunito;
-    font-size: 20px;
+    font-size: 16px;
     font-style: normal;
     font-weight: 400;
     line-height: 36px;
@@ -44,7 +44,7 @@ footer .f-sec2 h3 {
 footer .f-sec2 li {
     color: #FFF;
     font-family: Nunito;
-    font-size: 20px;
+    font-size: 16px;
     font-style: normal;
     font-weight: 400;
     line-height: normal;
@@ -70,7 +70,7 @@ footer .f-sec3 h3 {
 .f-num,
 .f-mail {
     display: flex;
-    justify-content: center;
+    justify-content: start;
     align-items: center;
     gap: 10px;
 }
@@ -78,7 +78,7 @@ footer .f-sec3 h3 {
 .f-sec3 p {
     color: #FFF;
     font-family: Nunito;
-    font-size: 20px;
+    font-size: 16px;
     font-style: normal;
     font-weight: 400;
     line-height: normal;
