@@ -87,6 +87,7 @@ footer .f-sec3 h3 {
 @media (max-width: 767px) {
 
 footer .f-sec2 h3 {
+     /* margin-left: -5px; */
      margin-left: -5px;
 }
     footer  ul {
