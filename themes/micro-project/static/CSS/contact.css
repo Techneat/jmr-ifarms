@@ -203,6 +203,7 @@
   }
 }
 
+
 @media (max-width: 768px) {
   .contact-card .con1 {
     width: 46%;
@@ -210,6 +211,12 @@
   .f-sec2 {
     align-items: start;
   }
+}
+@media (min-width: 769px) and (max-width: 992px) {
+     .contact-card .con1 {
+        width: 42%;
+        height: 200px;
+    }
 }
 
 @media (max-width: 426px) {
