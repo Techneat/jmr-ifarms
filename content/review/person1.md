@@ -1,7 +1,7 @@
 +++
 date = '2025-10-28T17:10:19+05:30'
-draft = true
-title = 'Rakesh.P, Home Chef'
+draft = false
+title = 'Rijin, Home Chef'
 person_img = '/image/review1.svg'
 area = 'Nagercoil' 
 +++

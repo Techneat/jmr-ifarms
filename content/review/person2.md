@@ -1,8 +1,8 @@
 +++
 date = '2025-10-28T17:10:46+05:30'
-draft = true
+draft = false
 title = 'Anjali M., Health & Wellness Blogger'
-person_img = '/image/review1.svg'
+person_img = '/image/profile1.png'
 area = 'Nagercoil'
 +++
 I'm a busy health enthusiast, and the JMR i farms unit is a

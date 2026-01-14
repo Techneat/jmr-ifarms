@@ -1,6 +1,6 @@
 +++
 date = '2025-10-28T17:11:05+05:30'
-draft = true
+draft = false
 title = 'Vikram R., Tech Professional'
 person_img = '/image/review1.svg'
 area = 'Nagercoil'
