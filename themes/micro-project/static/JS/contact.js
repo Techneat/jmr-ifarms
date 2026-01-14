@@ -249,7 +249,7 @@ document.addEventListener('DOMContentLoaded', () => {
     if (!valid) {
       e.preventDefault();
     } else {
-      formMsg.textContent = 'Submitting…';
+      // formMsg.textContent = 'Submitting…';
       formMsg.style.color = 'green';
     }
   });

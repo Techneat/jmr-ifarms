@@ -198,7 +198,7 @@ img {
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
-    padding: 5% 0%;
+    padding-top: 8%;
 }
 
 .about-left {
@@ -282,7 +282,7 @@ img {
 .ourtechnologysection {
     background-image: url("/image/Our\ Technology-bg.png");
     width: 100%;
-    padding: 5% 0%;
+    padding: 8% 0 5% 0;
 }
 
 .Our-Technology-section {
@@ -416,7 +416,7 @@ img {
 .howitswork {
     display: flex;
     justify-content: center;
-    padding: 5% 0%;
+    padding: 1% 0%;
 }
 
 .how-work {
@@ -742,8 +742,15 @@ a{
         width: 91%;
     }
 }
-
+@media (max-width: 840px){
+    .banner-img {
+        height: 850px;
+    }
+}
 @media (max-width: 768px) {
+        .banner-img {
+        height: 700px;
+    }
     .banner-text {
         margin-top: 100px;
     }
