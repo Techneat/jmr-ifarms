@@ -280,7 +280,7 @@ img {
 /* Our Technology Section  */
 
 .ourtechnologysection {
-    background-image: url("/image/Our\ Technology-bg.png");
+    background-image: url("themes/micro-project/static/image/Our Technology-img-left.png");
     width: 100%;
     padding: 8% 0 5% 0;
 }

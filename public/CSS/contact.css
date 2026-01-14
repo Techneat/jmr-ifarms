@@ -207,6 +207,9 @@
   .contact-card .con1 {
     width: 46%;
   }
+  .f-sec2 {
+    align-items: start;
+  }
 }
 
 @media (max-width: 426px) {
