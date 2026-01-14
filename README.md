@@ -1,1 +1,1 @@
-# jmr-ifarms
+# JMR iFarms
